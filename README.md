@@ -1,7 +1,8 @@
 
 Olá! Me chamo João Pedro 👋
 
-💻 Acadêmico do curso de ADS ULBRA - TORRES
+ * 💻 Acadêmico do curso de ADS ULBRA - TORRES
+ * 
  * 🧠 Atualmente focado em desenvolver habilidades de progromação ultilizando: C# | PHP | Java  
 
  * 🌍  Residente em Três Cachoeiras / RS.
@@ -22,6 +23,7 @@ Olá! Me chamo João Pedro 👋
 
 ### Socials
    <a href="http://www.instagram.com/joaoevaldt_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+   
   <a href="https://www.linkedin.com/in/joao-pedro-oliveira-evaldt-0b5768268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
