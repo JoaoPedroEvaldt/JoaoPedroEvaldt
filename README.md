@@ -21,7 +21,7 @@ Olá! Me chamo João Pedro 👋
   <img width ='40' height ='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 </div>
 
-https://github-readme-stats.vercel.app/api?username=JoaoPedroEvaldt&show_icons=true&theme=aura)
+
 
 
 ### Socials
