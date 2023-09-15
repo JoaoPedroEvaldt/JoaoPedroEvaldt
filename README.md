@@ -22,6 +22,10 @@ Olá! Me chamo João Pedro 👋
 </div>
 
 
+### :fire: Status :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroEvaldt&theme=aura)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroEvaldt&show_icons=true&theme=aura)
+##
 
 
 ### Socials
