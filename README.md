@@ -5,7 +5,6 @@ Olá! Me chamo João Pedro 👋
    
  * 🧠 Atualmente focado em desenvolver habilidades de progromação ultilizando: C# | PHP | Java  
 
- * 🌍  Residente em Três Cachoeiras / RS.
 
 
 
